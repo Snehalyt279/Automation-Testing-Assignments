@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<parameter name ="uname" value ="Snehaltawar"/>
+<parameter name ="passwd" value ="Snehalyt279"/>
+
+  <test name="Test">
+    <classes>
+      <class name="testngassign.DemoTestngparameters"/>
+      <parameter name ="passwd" value ="Snehalyt669"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
